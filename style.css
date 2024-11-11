@@ -1,0 +1,19 @@
+body {
+    background-color: #212129;
+}
+.header {
+    border-radius: 2.5em;
+    background-color: #323949;    
+    color: white;
+}
+.circle-img {
+    height: 20em;
+    width: 20em;
+    border-radius: 50%;
+    margin-bottom: 2em;
+}
+.copyright {
+    margin-top: 1em;
+    font-size: 1em;
+    font-style: italic;    
+}
